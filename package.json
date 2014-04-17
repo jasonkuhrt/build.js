@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/component/build.git"
+    "url": "git://github.com/component/build.js.git"
   },
   "dependencies": {
     "debug": "*",
